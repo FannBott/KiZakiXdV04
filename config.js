@@ -5,7 +5,7 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '+66827294199' ganti nomor kalian '628xxxxxx'
+// '66827294199' ganti nomor kalian '628xxxxxx'
 //SATRIA- MD ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
